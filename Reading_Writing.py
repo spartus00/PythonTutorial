@@ -1,0 +1,1 @@
+f = open('test.txt') #we can just pass in the name of the file because it is in the same directory
